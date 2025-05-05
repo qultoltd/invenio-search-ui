@@ -1,7 +1,4 @@
 {
-    "Sort": "Rendezés",
-    "Filter results": "Találatok szűrése",
-    "filters": "szűrők",
     "Versions": "Verziók",
     "View all versions": "Minden verzió megjelenítése",
     "Help": "Súgó",
@@ -9,7 +6,16 @@
     "Show all sub facets of ": "Összes alfelület mutatása",
     "Clear selection": "Kijelölés törlése",
     "Clear": "Törlés",
+    "results per page": "találat oldalanként",
+    "<0></0> results found": "<0></0> találat",
+    " ": " ",
+    "Search": "Keresés",
     "Search records...": "Rekordok keresése...",
     "All records": "Összes rekord",
-    "Sort by": "Rendezési elv"
+    "result(s) found": "találatot kaptunk",
+    "Sort": "Rendezés",
+    "Sort by": "Rendezési elv",
+    "Filter results": "Találatok szűrése",
+    "Search filters": "Keresési szűrők",
+    "Search results": "Keresési eredmények"
 }
